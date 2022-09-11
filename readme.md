@@ -2,7 +2,7 @@
 
 This project was a project that I completed for a recruiter from an unnamed organization. This program took me a little over 4 days of on-and-off work to complete. Sadly, I didn't end up getting selected for the position. With that, I figured I would publish my hard work here. As with any tool that scrapes webpage elements - the application can break by any change made on the specified website. 
 
-You can find the website used to make this tool <a href="https://www.cochranelibrary.com/" target="_blank" rel="noopener noreferrer">here</a>.
+You can find the website used in this utility <a href="https://www.cochranelibrary.com/" target="_blank" rel="noopener noreferrer">here</a>.
 <br/>
 
 # Setup
